@@ -74,11 +74,11 @@ According to our analysis, when looking to invest in houses in King County, we r
 
 Focusing on the highest coefficient neighborhoods, we recommend investing in the following zipcodes. 
 
-1)Medina/Bellevue: Zipcodes 980039, 98004
+1) Medina/Bellevue: Zipcodes 980039, 98004
 
-2)Madison Park/ Capitol Hill: Zipcodes 98112, 98102
+2) Madison Park/ Capitol Hill: Zipcodes 98112, 98102
 
-3)Mercer Island: Zipcode 98040
+3) Mercer Island: Zipcode 98040
 
 We also recommend staying away from certain areas.
 
@@ -110,6 +110,6 @@ For the future analysis, we would continue to explore correlations between diffe
 │   ├── sejin
 │   └── mia
 ├── King_County_Regression.ipynb     <-- Jupyter Notebook illustrating analysis 
-└── King_County_Regression.ipynb.pdf   <-- Presentation slides
+└── King_County_Regression_slides.pdf   <-- Presentation slides
 
 ```
