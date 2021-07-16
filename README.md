@@ -3,7 +3,7 @@
 
 ## Overview
 
-This project analyzes housing prices and features in King County for real estate agencies to see which feature has the strongest correlation with a house’s selling price. This project will recommend to real estate agencies which housing features to focus on when they are seeking to invest in King County Properties.
+This project analyzes housing prices and features in King County for real estate agencies to see which feature has the strongest correlation with a house’s selling price. It will recommend which housing features to focus on when they are seeking to invest in King County Properties.
 
 
 ## Business Problem
