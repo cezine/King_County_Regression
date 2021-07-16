@@ -48,7 +48,7 @@ Finally, to examine our final model, we ran it on the test data.
 ### Results
 
 
-According to the results we obtained from our final model a house without any attributes won't be worth anything. However, it will increase the value by the highest amount if one considers the right zipcodes, a higher grade, a bigger footage of the house and having a waterfront feature.
+According to the results we obtained from our final model, a house without any attributes won't be worth anything. However, it will increase the value by the highest amount if one considers the right zipcodes, a higher grade, a bigger footage of the house and having a waterfront feature.
 
 Mean Squarred Error(MSE) means that for an average house price, this algorithm will be off by $151,476.5, given the average house price for this dataset is $540,296.6. Therefore, our model still has room for improvement.
 
