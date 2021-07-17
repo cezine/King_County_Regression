@@ -38,7 +38,7 @@ After iterating through different combinations of variables and regression model
 
 ![graph_revenue_genre](./Images/zipcdoe_vs_price.png)
 
-The chart shows that even among the Top 10 zipcodes by average salary there is a great variance among the prices. Therefore, we decided to include zipcodes into our final analysis. 
+The chart shows that even among the Top 10 zipcodes by average prices there is a great variance among the prices. We decided to include zipcodes into our final analysis. 
 
 Our final model included everything we mentioned above and dummy variable transformation of waterfront, bedrooms, and floors. 
 Finally, to examine our final model, we ran it on the test data. 
